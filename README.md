@@ -3,7 +3,6 @@
 
 Hoje eu trabalho como Analista de pós-vendas e estou a procura do meu primeiro emprego na área de desenvolvimento, tenho focado meus estudos em Python e pretendo me especializar em Back End.
 
-Tenho duas filhas, sou de Niterói, amo jogos de diversos tipos e tenho uma vontade enorme de conhecer o mundo.
 
 - 💼 Hoje estou trabalhando como Analista de pós-vendas em uma grande empresa que fornece software e aplicativo de rastreamento para outras empresas.
 - 💻 Estou estudando Python e tenho pesquisado bastante sobre banco de dados e desenvolvimento de aplicativos mobile.
