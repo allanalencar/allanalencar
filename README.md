@@ -4,7 +4,7 @@
 Hoje eu trabalho como Costumer Sucess e estou a procura do meu primeiro emprego na área de desenvolvimento, tenho focado meus estudos em Python e pretendo me especializar em Back End.
 
 
-- 💼 Hoje estou trabalhando como Analista de pós-vendas em uma grande empresa que fornece software e aplicativo de rastreamento para outras empresas.
+- 💼 Hoje estou trabalhando como Costumer Sucess em uma grande empresa que fornece software e aplicativo de rastreamento para outras empresas.
 - 💻 Estou estudando Python e tenho pesquisado bastante sobre banco de dados e desenvolvimento de aplicativos mobile.
 - 🌎 Busco hoje trocar informações sobre programação, ajudar e ser ajudado e adoro fazer networking 
 - 🌟 Meu foco hoje é adquirir conhecimento e me desenvolver profissionalmente, meu desejo é ver problemas como desafios e saber analisá-los de forma técnica e aplicar a minha experiência para solucioná-los.
@@ -20,7 +20,7 @@ Today I work as a Costumer Sucess and I am looking for my first job in the devel
 
 I have two daughters, I'm from Niterói, I love games of different types and I have a huge desire to see the world.
 
-- 💼 Today I am working as After Sales Analyst in a big company that provides tracking software and application to other companies.
+- 💼 Today I am working as Costumer Sucess in a big company that provides tracking software and application to other companies.
 - 💻 I'm studying Python and I've been doing a lot of research on database and mobile application development.
 - 🌎 Today I seek to exchange information about programming, help and be helped and I love networking
 - 🌟 My focus today is to acquire knowledge and develop myself professionally, my desire is to see problems as challenges and to know how to analyze them in a technical way and apply my experience to solve them.
