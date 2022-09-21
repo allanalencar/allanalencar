@@ -1,7 +1,7 @@
 ### Bem vindo, meu nome é Allan Alencar!
 #### Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 
-Hoje eu trabalho como Analista de pós-vendas e estou a procura do meu primeiro emprego na área de desenvolvimento, tenho focado meus estudos em Python e pretendo me especializar em Back End.
+Hoje eu trabalho como Costumer Sucess e estou a procura do meu primeiro emprego na área de desenvolvimento, tenho focado meus estudos em Python e pretendo me especializar em Back End.
 
 
 - 💼 Hoje estou trabalhando como Analista de pós-vendas em uma grande empresa que fornece software e aplicativo de rastreamento para outras empresas.
@@ -16,7 +16,7 @@ Hoje eu trabalho como Analista de pós-vendas e estou a procura do meu primeiro 
 ### Welcome, my name is Allan Alencar!
 #### I'm 25 years old and I'm a Systems Analysis and Development student.
 
-Today I work as a Post-Sales Analyst and I am looking for my first job in the development area, I have focused my studies on Python and I intend to specialize in Back End.
+Today I work as a Costumer Sucess and I am looking for my first job in the development area, I have focused my studies on Python and I intend to specialize in Back End.
 
 I have two daughters, I'm from Niterói, I love games of different types and I have a huge desire to see the world.
 
